@@ -1,4 +1,4 @@
-﻿#include "bigint.h"
+﻿#include "BigInt.h"
 #ifndef UINT32_MAX
 #define UINT32_MAX 4294967295u
 #endif
