@@ -6,7 +6,7 @@
 #include <sstream>
 #include <vector>
 
-#include "bigint.h"
+#include "BigInt.h"
 
 
 using namespace std;
